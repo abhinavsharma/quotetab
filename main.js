@@ -4,7 +4,8 @@
 		"STAY FOCUSED & KEEP SHIPPING",
 		"MOVE FAST AND BUILD THINGS",
 		"PROCEED AND BE BOLD",
-		"DONE IS BETTER THAN PERFECT"
+		"DONE IS BETTER THAN PERFECT",
+		"THE MARTIANS ARE COMING TO SAVE THE EARTH"
 	];
 
 	var quote = quotes[Math.floor(Math.random()*quotes.length)];
